@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061691837491",
+    "project_id": "wekend-masti",
+    "storage_bucket": "wekend-masti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061691837491:android:3ada78d3e125ecf6532746",
+        "android_client_info": {
+          "package_name": "com.wekendmasti.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPpcQxZ10KsC5o1PG5oBxQIN3faQ5zF8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
